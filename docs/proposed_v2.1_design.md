@@ -1,0 +1,2 @@
+1. I have an idea where all the pane(window) is appear like a terminal window in Macbook so it has minimize, fullscreen, close button (this is not clickable) its only the style also the whole theme is not too dark.
+2. the first load auto command "cat init.sh" it shows init message
