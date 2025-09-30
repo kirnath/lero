@@ -350,6 +350,7 @@ export default function ChatPage() {
             "VERSION=2.1",
             "NETWORK=Solana Mainnet",
             "MINT=Aj8RFqzq25DFTZvgM8UJQZA7wZLXHGwpRg2HiFMjpump",
+            "SOCIALS=https://x.com/lero_run",
             "",
             ...ascii,
             "",
