@@ -349,6 +349,7 @@ export default function ChatPage() {
             "# Lero Terminal — init",
             "VERSION=2.1",
             "NETWORK=Solana Mainnet",
+            "MINT=Aj8RFqzq25DFTZvgM8UJQZA7wZLXHGwpRg2HiFMjpump"
             "",
             ...ascii,
             "",
